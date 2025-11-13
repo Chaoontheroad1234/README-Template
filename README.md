@@ -146,6 +146,14 @@ This section can also be called as `Resources` or `References`
 * Inspiration
 * etc
 
+## Data Analysis
+
+include an exemple of sql request
+
+```sql
+SELECT*FROM department
+WHERE id_code;
+```
 [//]: # (HyperLinks)
 
 [GitHub Repository]: https://github.com/madhur-taneja/README-Template
